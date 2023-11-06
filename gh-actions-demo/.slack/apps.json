@@ -1,0 +1,12 @@
+{
+  "apps": {
+    "E016J6S8NAD": {
+      "app_id": "A063YFWNHPH",
+      "enterprise_id": "E016J6S8NAD",
+      "IsDev": false,
+      "team_domain": "jpcs-grid-sandbox",
+      "team_id": "E016J6S8NAD"
+    }
+  },
+  "default": "jpcs-grid-sandbox"
+}
